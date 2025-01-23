@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Optimus Prime\2024-ikt218-osdev\src\duo_group_OSDev100\src\kernel.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Optimus Prime\2024-ikt218-osdev\src\duo_group_OSDev100\src\kernel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Optimus Prime\2024-ikt218-osdev\src\duo_group_OSDev100\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{80E7347D-07B5-3C64-ADB2-99673C089514}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

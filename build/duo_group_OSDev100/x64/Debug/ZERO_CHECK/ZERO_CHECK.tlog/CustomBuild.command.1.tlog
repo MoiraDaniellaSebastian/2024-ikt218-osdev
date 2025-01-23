@@ -1,0 +1,10 @@
+^C:\USERS\OPTIMUS PRIME\2024-IKT218-OSDEV\BUILD\DUO_GROUP_OSDEV100\CMAKEFILES\F773AEFC73D49F3DA5A0F5856748000F\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/Optimus Prime/2024-ikt218-osdev/src/duo_group_OSDev100" "-BC:/Users/Optimus Prime/2024-ikt218-osdev/build/duo_group_OSDev100" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/Optimus Prime/2024-ikt218-osdev/build/duo_group_OSDev100/UiAOS.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

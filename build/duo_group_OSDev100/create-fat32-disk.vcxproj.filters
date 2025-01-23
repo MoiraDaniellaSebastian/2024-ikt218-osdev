@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Optimus Prime\2024-ikt218-osdev\build\duo_group_OSDev100\CMakeFiles\f773aefc73d49f3da5a0f5856748000f\create-fat32-disk.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Optimus Prime\2024-ikt218-osdev\src\duo_group_OSDev100\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Optimus Prime\2024-ikt218-osdev\build\duo_group_OSDev100\CMakeFiles\create-fat32-disk" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{52BFCCE0-15FC-3815-A2C1-37DF799C1C9F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
